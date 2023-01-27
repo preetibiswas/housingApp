@@ -1,4 +1,4 @@
-# Github Housing Marketplace App\
+# Housing Marketplace App
 
 In this app you can rent or sell properties, This platform allows you to create your profile and you can upload deatails of your properties with images also. Backend is ceated in firebase with all authentications and front-end is made in react, follow below steps to run this app locally. 
 
